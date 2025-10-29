@@ -26,7 +26,15 @@ It’s an end-to-end analysis project covering data cleaning, KPI calculations, 
 The dataset (`pizza_sales.csv`) contains:
 - `order_id`, `order_date`, `order_time`  
 - `pizza_name`, `pizza_category`, `pizza_size`  
-- `quantity`, `unit_price`, `total_price`  
+- `quantity`, `unit_price`, `total_price`
+
+### 📈 Excel Dashboard Features
+
+- KPI cards for key metrics
+- Trend charts (daily & hourly orders)
+- Category & size contribution charts
+- Top & bottom pizzas section
+- Interactive slicers and timeline filters  
 
 ---
 
@@ -71,30 +79,6 @@ SELECT TOP 5 pizza_name, SUM(quantity) AS Total_Pizza_Sold
 FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Pizza_Sold ASC
-
-📈 Excel Dashboard Features
-
-KPI cards for key metrics
-
-Trend charts (daily & hourly orders)
-
-Category & size contribution charts
-
-Top & bottom pizzas section
-
-Interactive slicers and timeline filters
-
-💡 Insights
-
-Fridays had the highest number of total orders
-
-Large-sized pizzas generated the most revenue
-
-A few top-selling pizzas contributed the majority of total sales
-
-🧠 Skills Demonstrated
-
-Writing analytical SQL queries
 
 Cleaning and transforming raw data
 
