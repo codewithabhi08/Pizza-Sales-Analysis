@@ -72,3 +72,32 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Pizza_Sold ASC
 
+📈 Excel Dashboard Features
+
+KPI cards for key metrics
+
+Trend charts (daily & hourly orders)
+
+Category & size contribution charts
+
+Top & bottom pizzas section
+
+Interactive slicers and timeline filters
+
+💡 Insights
+
+Fridays had the highest number of total orders
+
+Large-sized pizzas generated the most revenue
+
+A few top-selling pizzas contributed the majority of total sales
+
+🧠 Skills Demonstrated
+
+Writing analytical SQL queries
+
+Cleaning and transforming raw data
+
+Creating dashboards in Excel
+
+Visual storytelling and business insight presentation
