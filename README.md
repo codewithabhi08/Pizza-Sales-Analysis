@@ -34,7 +34,14 @@ The dataset (`pizza_sales.csv`) contains:
 - Trend charts (daily & hourly orders)
 - Category & size contribution charts
 - Top & bottom pizzas section
-- Interactive slicers and timeline filters  
+- Interactive slicers and timeline filters
+
+ ### 🧠 Skills Demonstrated
+
+- Writing analytical SQL queries
+- Cleaning and transforming raw data
+- Creating dashboards in Excel
+- Visual storytelling and business insight presentation 
 
 ---
 
